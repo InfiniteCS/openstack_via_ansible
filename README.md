@@ -1,6 +1,6 @@
 # Ansible Playbook: Openstack
 
-An ansible playbook to deploy openstack components to the cluster
+An ansible playbook to deploy openstack components to the cluster (CentOS7 & RedHat)
 # Overview
 The playbook is composed according to [official openstack guides](http://docs.openstack.org/mitaka/install-guide-rdo/) 
 with a primary purpose to learn openstack deployment in a nutshell. Another reason is to fill the gap between official 
